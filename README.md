@@ -1,1 +1,1 @@
-project Farman Coins
+project Texran Coins
